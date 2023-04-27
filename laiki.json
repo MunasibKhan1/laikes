@@ -3510,8 +3510,8 @@
       "DURATION": "ΜΟΝΙΜΗ",
       "LAIKI GROUP": "Γ΄ΑΘΗΝΩΝ",
       "COMPLETE ADDRESS": "ΚΕΦΑΛΗΝΙΑΣ ΑΓ. ΑΝΑΡΓΥΡΟΙ  ΚΑΜΑΤΕΡΟ ΑΘΗΝΑ",
-      "LATITUDE": 37.9991758,
-      "LONGITUDE": 23.7328351
+      "LATITUDE": 38.026644,
+      "LONGITUDE": 23.7188272
     },
     {
       "DIMOS": "ΚΑΜΑΤΕΡΟ",
@@ -3726,8 +3726,8 @@
       "DURATION": "ΜΟΝΙΜΗ",
       "LAIKI GROUP": "Β΄ΑΘΗΝΩΝ",
       "COMPLETE ADDRESS": "ΧΙΟΥ ΖΩΟΔ. ΠΗΓΗΣ ΔΗΜΟΣ ΙΛΙΟΥ ΑΘΗΝΑ",
-      "LATITUDE": 37.9838096,
-      "LONGITUDE": 23.7275388
+      "LATITUDE": 38.021489,
+      "LONGITUDE": 23.697890
     },
     {
       "DIMOS": "ΔΗΜΟΣ ΙΛΙΟΥ",
@@ -3774,8 +3774,8 @@
       "DURATION": "6ΜΗΝΕΣ",
       "LAIKI GROUP": "",
       "COMPLETE ADDRESS": "ΕΥΡΥΔΙΚΗΣ ΡΑΔΙΟΦΩΝΙΑ ΔΗΜΟΣ ΙΛΙΟΥ ΑΘΗΝΑ",
-      "LATITUDE": 37.9838096,
-      "LONGITUDE": 23.7275388
+      "LATITUDE": 38.037581,
+      "LONGITUDE": 23.708803
     },
     {
       "DIMOS": "ΔΗΜΟΣ ΙΛΙΟΥ",
@@ -3822,8 +3822,8 @@
       "DURATION": "4ΜΗΝΕΣ",
       "LAIKI GROUP": "",
       "COMPLETE ADDRESS": "Μ. ΑΛΕΞΑΝΔΡΟΥ ΜΙΧΕΛΗ ΔΗΜΟΣ ΙΛΙΟΥ ΑΘΗΝΑ",
-      "LATITUDE": 37.9826344,
-      "LONGITUDE": 23.7166539
+      "LATITUDE": 38.0371978,
+      "LONGITUDE": 23.6955677
     },
     {
       "DIMOS": "ΠΕΡΙΣΤΕΡΙΟΥ",
@@ -4074,8 +4074,8 @@
       "DURATION": "(ΜΑΡΤ-ΑΠΡ)",
       "LAIKI GROUP": "",
       "COMPLETE ADDRESS": "ΑΓ. ΛΑΥΡΑΣ ΠΕΤΡΟΥΠΟΛΗ ΚΕΝΤΡΙΚΗ ΠΕΤΡΟΥΠΟΛΗ ΑΘΗΝΑ",
-      "LATITUDE": 38.0194519,
-      "LONGITUDE": 23.7395991
+      "LATITUDE": 38.0377709,
+      "LONGITUDE": 23.686137
     },
     {
       "DIMOS": "ΠΕΤΡΟΥΠΟΛΗ",
@@ -4122,8 +4122,8 @@
       "DURATION": "ΕΚΤΑΚΤΑ ΜΟΝΟ",
       "LAIKI GROUP": "",
       "COMPLETE ADDRESS": "ΑΓΗΣΙΛΑΟΥ ΑΝΩ ΠΕΤΡΟΥΠΟΛΗ ΠΕΤΡΟΥΠΟΛΗ ΑΘΗΝΑ",
-      "LATITUDE": 37.9813545,
-      "LONGITUDE": 23.7203078
+      "LATITUDE": 38.0380809,
+      "LONGITUDE": 23.6680608
     },
     {
       "DIMOS": "ΧΑΙΔΑΡΙΟΥ",
