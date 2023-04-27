@@ -802,8 +802,8 @@
         "DURATION": "(10/7-9/1)",
         "LAIKI GROUP": "Δ΄Α",
         "COMPLETE ADDRESS": "ΜΑΓΝΗΣΙΑΣ Ν. ΕΛΒΕΤΙΑ ΒΥΡΩΝΑ ΑΘΗΝΑ",
-        "LATITUDE": 37.9592596,
-        "LONGITUDE": 23.7563687
+        "LATITUDE": 37.9568981,
+        "LONGITUDE": 23.7530229
       },
       {
         "DIMOS": "ΒΥΡΩΝΑ",
@@ -1006,8 +1006,8 @@
         "DURATION": "3ΜΗΝΕΣ",
         "LAIKI GROUP": "Δ΄Α",
         "COMPLETE ADDRESS": "ΦΑΡΜΑΚΙΔΟΥ Κ. ΗΛΙΟΥΠΟΛΗΣ ΗΛΙΟΥΠΟΛΗΣ  ΑΘΗΝΑ",
-        "LATITUDE": 37.9551764,
-        "LONGITUDE": 23.7157465
+        "LATITUDE": 37.9312877,
+        "LONGITUDE": 23.7489289
       },
       {
         "DIMOS": "ΗΛΙΟΥΠΟΛΗΣ",
@@ -1078,8 +1078,8 @@
         "DURATION": "ΜΟΝΙΜΗ",
         "LAIKI GROUP": "Δ΄Α",
         "COMPLETE ADDRESS": "ΚΥΠΡΟΥ ΑΓ. ΚΩΝΣΤΑΝΤΙΝΟΣ ΗΛΙΟΥΠΟΛΗΣ  ΑΘΗΝΑ",
-        "LATITUDE": 37.9838096,
-        "LONGITUDE": 23.7275388
+        "LATITUDE": 37.942906,
+        "LONGITUDE": 23.744917
       },
       {
         "DIMOS": "ΗΛΙΟΥΠΟΛΗΣ",
@@ -1186,8 +1186,8 @@
         "DURATION": "(1/1-30/6)",
         "LAIKI GROUP": "",
         "COMPLETE ADDRESS": "ΣΕΡΡΩΝ Ν. ΜΑΔΥΤΟΣ Ν. ΦΙΛΑΔΕΛΦΕΙΑΣ -ΧΑΛΚΗΔΟΝΑΣ ΑΘΗΝΑ",
-        "LATITUDE": 37.9838096,
-        "LONGITUDE": 23.7275388
+        "LATITUDE": 38.050594,
+        "LONGITUDE": 23.744692
       },
       {
         "DIMOS": "Ν. ΦΙΛΑΔΕΛΦΕΙΑΣ -ΧΑΛΚΗΔΟΝΑΣ",
@@ -1198,8 +1198,8 @@
         "DURATION": "ΜΟΝΙΜΗ",
         "LAIKI GROUP": "",
         "COMPLETE ADDRESS": "ΘΕΣΠΙΕΩΝ Ν. ΧΑΛΚΗΔΟΝΑ Ν. ΦΙΛΑΔΕΛΦΕΙΑΣ -ΧΑΛΚΗΔΟΝΑΣ ΑΘΗΝΑ",
-        "LATITUDE": 37.9838096,
-        "LONGITUDE": 23.7275388
+        "LATITUDE": 38.026259,
+        "LONGITUDE": 23.7292314
       }
     ],
   "east": [
